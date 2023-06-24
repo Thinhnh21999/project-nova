@@ -170,7 +170,7 @@ header .navbar-brand img {
 		overflow: hidden;
 }
 
-.about {background-image: url("./service-bg.d0e67e81.svg");
+.about {background-image: url("./index.img/service-bg.d0e67e81.svg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: top center;
@@ -212,7 +212,7 @@ header .navbar-brand img {
 	right: 0;
 	width: 265px;
 	height: 325px;
-	background: url(./pattern.eab16f3b.png) no-repeat;
+	background: url(./index.img/pattern.eab16f3b.png) no-repeat;
 	z-index: 1;
 }	
 
@@ -222,7 +222,7 @@ header .navbar-brand img {
 }
 
 #testimonials {
-	background: url(./testimonials-bg.cc4a8da7.png) no-repeat;
+	background: url(./index.img/testimonials-bg.cc4a8da7.png) no-repeat;
 	background-position: left center;
 	background-size: 40% 100%;
 }
@@ -248,7 +248,7 @@ header .navbar-brand img {
 
 .swiper-wrapper .card::before {
 	content: '';
-	background: url(./pattern-2.1d3473f7.png) no-repeat;
+	background: url(./index.img/pattern-2.1d3473f7.png) no-repeat;
 	background-size: cover;
 	background-position: center center;
 	position: absolute;
@@ -388,7 +388,7 @@ footer::before {
 	right: 0;
 	width: 265px;
 	height: 325px;
-	background: url(./pattern.eab16f3b.png) no-repeat;;
+	background: url(./index.img/pattern.eab16f3b.png) no-repeat;;
 	z-index: 1;
 }
 
